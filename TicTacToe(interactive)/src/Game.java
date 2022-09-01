@@ -2,7 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-
 public class Game extends JFrame implements ActionListener{
 	JButton butoni1 = new JButton(" ");	
 	JButton butoni2 = new JButton(" ");
